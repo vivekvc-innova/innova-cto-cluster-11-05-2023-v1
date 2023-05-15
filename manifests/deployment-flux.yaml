@@ -9,6 +9,7 @@ data:
       <body>
         <h1>Welcome to Innova Solutions GitOps Demo Page</h1>
         <p>This is the first commit dated May 15th </p>
+        <P>This is the Sriram demo on May 16th<p>
       </body>
     </html>
 ---
